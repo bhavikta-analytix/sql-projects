@@ -25,3 +25,9 @@ quantity, and revenue.
 ### Business Recommendation
 Focus marketing and inventory planning on top-performing products,
 especially during Q4, to maximize revenue.
+
+### What I Learned
+- Writing aggregation queries using GROUP BY and ORDER BY
+- Analyzing monthly trends using date functions
+- Identifying top-performing products using revenue analysis
+- Translating SQL outputs into business recommendations
