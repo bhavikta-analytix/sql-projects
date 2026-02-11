@@ -18,9 +18,9 @@ quantity, and revenue.
 - Region-wise revenue distribution
 
 ### Key Insights
-- Top 3 products contribute ~35% of total revenue
-- Q4 shows the highest sales growth
-- West region generates maximum revenue
+- The top 3 products contribute approximately 35% of total revenue, indicating strong product concentration.
+- Sales peak during Q4, likely due to festive season demand and promotional campaigns.
+- The West region generates the highest revenue, suggesting strong regional market performance.
 
 ### Business Recommendation
 Focus marketing and inventory planning on top-performing products,
