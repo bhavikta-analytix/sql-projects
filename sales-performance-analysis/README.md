@@ -31,3 +31,14 @@ especially during Q4, to maximize revenue.
 - Analyzing monthly trends using date functions
 - Identifying top-performing products using revenue analysis
 - Translating SQL outputs into business recommendations
+
+## 📊 Power BI Dashboard Preview
+
+![Dashboard](dashboard_overview.png)
+
+### Dashboard Highlights
+- Total Sales KPI Card
+- Monthly Sales Trend (2015–2018)
+- Sales by Region
+- Top Products by Revenue
+- Year-wise Filter (Slicer)
