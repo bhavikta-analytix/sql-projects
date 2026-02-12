@@ -34,7 +34,7 @@ especially during Q4, to maximize revenue.
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
+![Dashboard](https://github.com/bhavikta-analytix/sql-projects/blob/main/sales-performance-analysis/Screenshot%202026-02-13%20001911.png)
 
 ### Dashboard Highlights
 - Total Sales KPI Card
